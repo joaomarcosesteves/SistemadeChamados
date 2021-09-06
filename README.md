@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="src/assets/readme/logo.png" alt="logo" width="120">
+  <img src="src/Assets/logo.png" alt="logo" width="120">
 <br>
 <br>
 SISTEMA DE CHAMADOS
@@ -14,8 +14,8 @@ SISTEMA DE CHAMADOS
   </a>
 </p>
 
-<div>
-  <img src="src/assets/readme/SistemadeChamados.gif" alt="sistemaChamados" height="425">
+<div align="center" >
+  <img src="src/Assets/readme/SistemadeChamados.gif" alt="sistemaChamados" height="425">
 </div>
 
 <hr />
